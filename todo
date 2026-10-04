@@ -1,0 +1,4 @@
+de unhappy scenarios moeten in de tabel als foutmelding zodat de tabel/leverancier info nog wel te zien is
+left join ofzo moet het zijn
+
+en code health de db logic moet in models met een referentie in controller voor de netheid
